@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageHandler", "MessageHandler\MessageHandler.csproj", "{6EC0BC0A-0C49-492D-861B-42E490EEFDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC0BC0A-0C49-492D-861B-42E490EEFDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC0BC0A-0C49-492D-861B-42E490EEFDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC0BC0A-0C49-492D-861B-42E490EEFDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC0BC0A-0C49-492D-861B-42E490EEFDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56684D1-2A8E-48E4-BE93-1F2F286F7DDD}
+	EndGlobalSection
+EndGlobal
